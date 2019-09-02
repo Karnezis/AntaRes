@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Pacotes do Menu/Scenes/SampleScene.unity
+- path: Assets/MenuPrincipal.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
