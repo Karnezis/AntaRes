@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/MenuPrincipal.unity
+- path: Assets/T-Rex.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
