@@ -11,4 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/T-Rex.unity
     guid: 100af973ee54eb04e914215438b54a77
+  - enabled: 1
+    path: Assets/Starfish.unity
+    guid: d6e5d23585be152459d428e0bf3a2dc9
+  - enabled: 1
+    path: Assets/Trylobite.unity
+    guid: 01e0b60bc7e7d0043bd4d8d5d041ba40
+  - enabled: 1
+    path: Assets/Ammonite.unity
+    guid: afc22db8cc47d42498e579029701a475
   m_configObjects: {}
