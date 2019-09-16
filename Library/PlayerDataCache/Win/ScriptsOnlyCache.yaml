@@ -1689,4 +1689,4 @@ ScriptsOnlyBuild:
   - Assets/Starfish.unity
   - Assets/Trylobite.unity
   - Assets/Ammonite.unity
-  playerPath: C:/Users/vsari/Downloads/AntaRes.exe
+  playerPath: C:/Users/vsari/Downloads/AntaRes/AntaRes.exe
