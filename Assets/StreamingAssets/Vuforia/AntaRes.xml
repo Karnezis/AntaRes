@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="Starfish-Tracker" size="0.100000 0.070556" />
+    <ImageTarget name="Trilobyte-Tracker" size="0.100000 0.066667" />
+    <ImageTarget name="Ammonite-Tracker" size="0.100000 0.101048" />
+    <ImageTarget name="T-Rex-Tracker" size="0.100000 0.073052" />
     <ImageTarget name="Marker" size="150.000000 150.000000" />
   </Tracking>
 </QCARConfig>
